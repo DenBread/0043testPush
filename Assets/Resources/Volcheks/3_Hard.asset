@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06efec9882c700b459068f6d3f5b5103, type: 3}
+  m_Name: 3_Hard
+  m_EditorClassIdentifier: 
+  TxtInfo: text
+  ModelVolchek: {fileID: -1128434760, guid: 0cabfe2342625de458f34b9ece4f4164, type: 3}
+  DifficultyVolchek: 2
+  ListMap:
+  - {fileID: 21300000, guid: ac4a8dc8ac2703c4aaa3fd4229c5eda8, type: 3}
+  - {fileID: 21300000, guid: 9aca8aeb35d0fe743bb6c2d98292cc47, type: 3}
+  ListVolchek:
+  - {fileID: -1128434760, guid: 0cabfe2342625de458f34b9ece4f4164, type: 3}
+  - {fileID: 1317991513, guid: 0cabfe2342625de458f34b9ece4f4164, type: 3}
+  - {fileID: -1144490857, guid: 0cabfe2342625de458f34b9ece4f4164, type: 3}
+  - {fileID: -59743671, guid: 0cabfe2342625de458f34b9ece4f4164, type: 3}
+  - {fileID: -820273546, guid: 0cabfe2342625de458f34b9ece4f4164, type: 3}
+  - {fileID: 920784194, guid: 0cabfe2342625de458f34b9ece4f4164, type: 3}
